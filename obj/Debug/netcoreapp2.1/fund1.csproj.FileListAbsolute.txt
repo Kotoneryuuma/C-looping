@@ -1,0 +1,11 @@
+/Users/sekiryouma/Documents/coding_dojo/C#/fund1/bin/Debug/netcoreapp2.1/fund1.deps.json
+/Users/sekiryouma/Documents/coding_dojo/C#/fund1/bin/Debug/netcoreapp2.1/fund1.runtimeconfig.json
+/Users/sekiryouma/Documents/coding_dojo/C#/fund1/bin/Debug/netcoreapp2.1/fund1.runtimeconfig.dev.json
+/Users/sekiryouma/Documents/coding_dojo/C#/fund1/bin/Debug/netcoreapp2.1/fund1.dll
+/Users/sekiryouma/Documents/coding_dojo/C#/fund1/bin/Debug/netcoreapp2.1/fund1.pdb
+/Users/sekiryouma/Documents/coding_dojo/C#/fund1/obj/Debug/netcoreapp2.1/fund1.csprojAssemblyReference.cache
+/Users/sekiryouma/Documents/coding_dojo/C#/fund1/obj/Debug/netcoreapp2.1/fund1.csproj.CoreCompileInputs.cache
+/Users/sekiryouma/Documents/coding_dojo/C#/fund1/obj/Debug/netcoreapp2.1/fund1.AssemblyInfoInputs.cache
+/Users/sekiryouma/Documents/coding_dojo/C#/fund1/obj/Debug/netcoreapp2.1/fund1.AssemblyInfo.cs
+/Users/sekiryouma/Documents/coding_dojo/C#/fund1/obj/Debug/netcoreapp2.1/fund1.dll
+/Users/sekiryouma/Documents/coding_dojo/C#/fund1/obj/Debug/netcoreapp2.1/fund1.pdb
